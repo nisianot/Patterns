@@ -1,2 +1,11 @@
 # Patterns
-Patterns
+## Patterns 2
+```Python
+#pattern
+#$$$$$$$$$$$
+# $$$$$$$$$
+#  $$$$$$$
+#   $$$$$
+#    $$$
+#     $
+```
